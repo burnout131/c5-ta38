@@ -1,27 +1,6 @@
 # C5Ta38
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.0.
-
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+<div class="no-overflow"><p></p>
+<h4></h4><h2></h2><h2><span style="font-size: 1.286rem; font-weight: inherit; text-transform: inherit;">Rick &amp; Morty Frontend App</span><br></h2><div id="intro"><div><p>Realiza la siguiente interfaz utilizando para ello&nbsp;<a title="Angular" href="https://campus.fundacionesplai.org/mod/url/view.php?id=2959">Angular</a>&nbsp;Framework 12, debes integrar en el proyecto al menos dos&nbsp;<a title="Componentes" href="https://campus.fundacionesplai.org/mod/url/view.php?id=2975">componentes</a>.<br></p><p></p><p>Sobre la API REST&nbsp;<a href="https://rickandmortyapi.com/">https://rickandmortyapi.com/&nbsp;</a>realiza las consultas GET necesarias para pintar la información de varios personajes en tu vista web. Consulta la documentación para poder obtener URIs válidas para cada personaje.&nbsp;</p><p>Añade tres enlaces en la parte superior de la página (puedes utilizar un navbar). El primero dará acceso a la pantalla de bienvenida (Home). El segundo mostrará un listado de personajes aleatorio. Y el tercer enlace debe mostrar mediante otra ruta el nombre del programador, versión y fecha de desarrollo (about us). Configura correctamente el sistema de enrutado de&nbsp;<a title="Angular" href="https://campus.fundacionesplai.org/mod/url/view.php?id=2959">angular</a>.</p><p>Ejemplo de diseño:</p><p>Utiliza para ello la funcionalidad de la clase 'HttpClient'. Se recomienda integrar&nbsp;<a href="https://academia.fundacionesplai.org/mod/msteams/view.php?id=16270" title="Bootstrap">Bootstrap</a>&nbsp;en la interfaz visual&nbsp;incluyendo los Servicios y Pipes que consideres necesario. Define la vista de detalle de cada personaje.</p><p>Debes adjuntar las URL de los diferentes repositorios realizados para resolver la tarea (añade node_modules al gitignore). Recuerda que tienes fecha límite de entrega.</p></div></div><br>
+<p></p>
+<p></p></div>
